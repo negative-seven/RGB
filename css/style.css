@@ -1,0 +1,11 @@
+body, input {
+	font-family: 'Consolas';
+	font-size: 60px;
+}
+
+.input {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;  
+}
